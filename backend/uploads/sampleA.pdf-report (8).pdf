@@ -1,0 +1,349 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2313
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Report for File: sampleA.pdf) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. 1. 0. rg
+28.3464566929133888 785.1970866141732586 Td
+(Department: HR) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 756.8506299212598378 Td
+(Paragraph P3:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 728.5041732283464171 Td
+(Ensure Proper Storage of Tables: The backend is currently storing tables as individual elements, but you may be) Tj
+T* (facing issues with empty table data or incorrect structure. We'll make sure each table is represented properly in the) Tj
+T* (MongoDB and structured as a distinct item this is anish.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 668.9766141732283131 Td
+(Remarks: g) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 640.6301574803148924 Td
+(Paragraph P4:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 612.2837007874015853 Td
+(To resolve the issue of the tables not being extracted or displayed correctly, there are a few improvements and) Tj
+T* (corrections that can be made to both the backend and frontend code. Let's break down the changes ok.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 572.5986614173227736 Td
+(Remarks: h) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. 0. 1. rg
+28.3464566929133888 515.9057480314959321 Td
+(Department: Engineering) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 487.559291338582625 Td
+(Paragraph P2:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 459.2128346456692611 Td
+(anis 122 34 34 33 33 33 333 33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 439.3703149606298552 Td
+(Remarks: f) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+1. 0.647 0. rg
+28.3464566929133888 382.6774015748030706 Td
+(Department: Audit) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 354.3309448818897067 Td
+(Paragraph P1:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 325.9844881889763428 Td
+(To resolve the issue of the tables not being extracted or displayed correctly, there are a few improvements and) Tj
+T* (corrections that can be made to both the backend and frontend code. Let's break down the changes.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 286.2994488188975311 Td
+(Remarks: e) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20250116145130+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000002517 00000 n 
+0000004334 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002574 00000 n 
+0000002699 00000 n 
+0000002829 00000 n 
+0000002962 00000 n 
+0000003099 00000 n 
+0000003222 00000 n 
+0000003351 00000 n 
+0000003483 00000 n 
+0000003619 00000 n 
+0000003747 00000 n 
+0000003874 00000 n 
+0000004003 00000 n 
+0000004136 00000 n 
+0000004238 00000 n 
+0000004582 00000 n 
+0000004668 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <AD7628D8F75FC78A65DB6C4C6EB02438> <AD7628D8F75FC78A65DB6C4C6EB02438> ]
+>>
+startxref
+4772
+%%EOF

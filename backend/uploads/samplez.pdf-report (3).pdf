@@ -1,0 +1,724 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5158
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Report for File: samplez.pdf) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+1. 0. 0. rg
+28.3464566929133888 785.1970866141732586 Td
+(Department: Accounts) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+40. 756.8506299212598378 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 743.3506299212598378 Td
+(Table ID) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+209.9892783505154341 756.8506299212598378 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+214.9892783505154341 743.3506299212598378 Td
+(Para Audit ID: CT5) Tj
+ET
+0. G
+0.5670000000000001 w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 735.3506299212597241 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 721.8506299212598378 Td
+(e) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+209.9892783505154341 735.3506299212597241 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 721.8506299212598378 Td
+(f) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 713.8506299212598378 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 700.3506299212598378 Td
+(g) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+209.9892783505154341 713.8506299212598378 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 700.3506299212598378 Td
+(h) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 664.0041732283464171 Td
+(Remarks: a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 635.65771653543311 Td
+(Paragraph P1:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 607.3112598425196893 Td
+(To resolve the issue of the tables not being extracted or displayed correctly, there are a few improvements and) Tj
+T* (corrections that can be made to both the backend and frontend code. Let's break down the changes.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 567.6262204724409912 Td
+(Remarks: v) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. 1. 0. rg
+28.3464566929133888 510.9333070866141497 Td
+(Department: HR) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+40. 482.586850393700729 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 469.0868503937007858 Td
+(Table ID) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+209.9892783505154341 482.586850393700729 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+214.9892783505154341 469.0868503937007858 Td
+(Para Audit ID: CT5) Tj
+ET
+0. G
+0.5670000000000001 w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 461.0868503937007858 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 447.5868503937007858 Td
+(e) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+209.9892783505154341 461.0868503937007858 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 447.5868503937007858 Td
+(f) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 439.5868503937007858 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 426.0868503937008427 Td
+(g) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+209.9892783505154341 439.5868503937007858 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 426.0868503937008427 Td
+(h) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 389.7403937007874219 Td
+(Remarks: a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 361.3939370078740581 Td
+(Paragraph P4:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 333.0474803149606373 Td
+(To resolve the issue of the tables not being extracted or displayed correctly, there are a few improvements and) Tj
+T* (corrections that can be made to both the backend and frontend code. Let's break down the changes.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 293.3624409448818824 Td
+(Remarks: v) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. 0. 1. rg
+28.3464566929133888 236.6695275590551546 Td
+(Department: Engineering) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 208.3230708661417339 Td
+(Paragraph P2:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 179.9766141732283131 Td
+(anis 122 34 34 33 33 33 333 33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 160.1340944881890209 Td
+(Remarks: b) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 131.7876377952756002 Td
+(Paragraph P4:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 103.4411811023621794 Td
+(To resolve the issue of the tables not being extracted or displayed correctly, there are a few improvements and) Tj
+T* (corrections that can be made to both the backend and frontend code. Let's break down the changes.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 63.7561417322833677 Td
+(Remarks: v) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+1. 0.647 0. rg
+28.3464566929133888 7.0632283464566399 Td
+(Department: Audit) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2645
+>>
+stream
+0.5670000000000001 w
+0. G
+0. G
+0.5670000000000001 w
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+40. 801.8899999999999864 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 788.3899999999999864 Td
+(Table ID) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+209.9892783505154341 801.8899999999999864 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+214.9892783505154341 788.3899999999999864 Td
+(Para Audit ID: CT6) Tj
+ET
+0. G
+0.5670000000000001 w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 780.3899999999999864 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 766.8899999999999864 Td
+(n) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+209.9892783505154341 780.3899999999999864 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 766.8899999999999864 Td
+(k) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 758.8899999999999864 169.9892783505154341 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 745.3899999999999864 Td
+(n) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+209.9892783505154341 758.8899999999999864 345.290721649484567 -21.4999999999999964 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+214.9892783505154341 745.3899999999999864 Td
+(n) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 709.0435433070865656 Td
+(Remarks: v) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 680.6970866141732586 Td
+(Paragraph P3:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 652.3506299212598378 Td
+(Ensure Proper Storage of Tables: The backend is currently storing tables as individual elements, but you may be) Tj
+T* (facing issues with empty table data or incorrect structure. We'll make sure each table is represented properly in the) Tj
+T* (MongoDB and structured as a distinct item this is anish.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 592.8230708661417339 Td
+(Remarks: v) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.502 0. 0.502 rg
+28.3464566929133888 536.1301574803148924 Td
+(Department: Finance) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 507.7837007874015285 Td
+(Paragraph P3:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 479.4372440944881646 Td
+(Ensure Proper Storage of Tables: The backend is currently storing tables as individual elements, but you may be) Tj
+T* (facing issues with empty table data or incorrect structure. We'll make sure each table is represented properly in the) Tj
+T* (MongoDB and structured as a distinct item this is anish.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+28.3464566929133888 419.9096850393700038 Td
+(Remarks: v) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20241115124300+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000008196 00000 n 
+0000010021 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005362 00000 n 
+0000005499 00000 n 
+0000008259 00000 n 
+0000008384 00000 n 
+0000008514 00000 n 
+0000008647 00000 n 
+0000008785 00000 n 
+0000008909 00000 n 
+0000009038 00000 n 
+0000009170 00000 n 
+0000009306 00000 n 
+0000009434 00000 n 
+0000009561 00000 n 
+0000009690 00000 n 
+0000009823 00000 n 
+0000009925 00000 n 
+0000010271 00000 n 
+0000010357 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <915DC2B986694EE989503F6778714498> <915DC2B986694EE989503F6778714498> ]
+>>
+startxref
+10461
+%%EOF
